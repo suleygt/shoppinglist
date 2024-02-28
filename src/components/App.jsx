@@ -33,7 +33,7 @@ const App = () => {
         <h1>Alışveriş Listesi</h1>
         <input
           type="text"
-          placeholder="https://images.unsplash.com/photo-1513171920216-2640b288471b?q="
+          placeholder="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=2532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           value={backgroundImage}
           onChange={handleImageChange}
           style={{ marginBottom: '10px' }}
